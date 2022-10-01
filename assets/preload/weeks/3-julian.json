@@ -1,0 +1,41 @@
+{
+	"storyName": "spring is beautiful,flowers are blooming and butterflies are dancing",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "julian",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"carnival-in-toyland",
+			"julian",
+			[
+				71,
+				71,
+				71
+			]
+		],
+		[
+			"spring-march",
+			"julian",
+			[
+				71,
+				71,
+				71
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "life,like any other is HARD",
+	"hiddenUntilUnlocked": false
+}

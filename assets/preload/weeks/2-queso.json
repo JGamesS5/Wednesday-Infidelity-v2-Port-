@@ -1,0 +1,41 @@
+{
+	"storyName": "that abandoned school is a horror,as the groans of paint",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "cheddar",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"cravings",
+			"cheese",
+			[
+				146,
+				146,
+				146
+			]
+		],
+		[
+			"hunger-pangs",
+			"cheese",
+			[
+				146,
+				146,
+				146
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "life,like any other is HARD"
+}

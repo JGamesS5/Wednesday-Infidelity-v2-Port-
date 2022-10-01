@@ -1,0 +1,86 @@
+{
+	"storyName": "mickey has lived in lies all his life,today he realizes that,but..",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "suicide",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"wistfulness",
+			"mouse-sad",
+			[
+				111,
+				111,
+				111
+			]
+		],
+		[
+			"dejection",
+			"madness",
+			[
+				111,
+				111,
+				111
+			]
+		],
+		[
+			"unknown-suffering",
+			"miki2",
+			[
+				111,
+				111,
+				111
+			]
+		],
+		[
+			"sunsets",
+			"happymouse",
+			[
+				111,
+				111,
+				111
+			]
+		],
+		[
+			"last-day",
+			"badend",
+			[
+				151,
+				151,
+				151
+			]
+		],
+		[
+			"versiculus-iratus",
+			"skinnysatan",
+			[
+				111,
+				111,
+				111
+			]
+		],
+		[
+			"hellhole",
+			"satan",
+			[
+				151,
+				151,
+				151
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "life,like any other,is HARD",
+	"hiddenUntilUnlocked": false
+}

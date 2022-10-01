@@ -1,0 +1,59 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "extras",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"untold-loneliness",
+			"oswald",
+			[
+				71,
+				71,
+				71
+			]
+		],
+		[
+			"vesania",
+			"mouse",
+			[
+				71,
+				71,
+				71
+			]
+		],
+		[
+			"krimant",
+			"mokey",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"leak-ma-balls",
+			"ms",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

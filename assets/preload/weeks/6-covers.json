@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "covers",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"too-slow",
+			"miki1",
+			[
+				81,
+				81,
+				81
+			]
+		],
+		[
+			"accelerant",
+			"battered",
+			[
+				81,
+				81,
+				81
+			]
+		],
+		[
+			"battered",
+			"battered",
+			[
+				81,
+				81,
+				81
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}
