@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-219,
+				-40
+			],
+			"anim": "GUN",
+			"fps": 24,
+			"name": "OSWALD GUN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-380,
+				-70
+			],
+			"anim": "dia",
+			"fps": 24,
+			"name": "dialogo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oswald/dialogos",
+	"position": [
+		-730,
+		200
+	],
+	"healthicon": "Oswalds",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		260,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "book",
+			"fps": 24,
+			"name": "LEAKERS NOOBS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "LEAKERS NOOBS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leakers/dialogo2libro",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "ms",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		2,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

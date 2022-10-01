@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MAD MIKI IDLE"
+		},
+		{
+			"offsets": [
+				85,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MAD MIKI LEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MAD MIKI DOWN"
+		},
+		{
+			"offsets": [
+				-35,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MAD MIKI UP"
+		},
+		{
+			"offsets": [
+				-48,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MAD MIKI RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/too-slow/tiny mouse mad",
+	"position": [
+		0,
+		470
+	],
+	"healthicon": "miki2",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		73,
+		69
+	],
+	"camera_position": [
+		-110,
+		-90
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.2
+}

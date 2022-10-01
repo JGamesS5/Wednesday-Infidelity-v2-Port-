@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "talk",
+			"indices": [],
+			"name": "MIKI DIALOGUE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/too-slow/tiny mouse dialogue",
+	"position": [
+		10,
+		200
+	],
+	"healthicon": "miki2",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		73,
+		69
+	],
+	"camera_position": [
+		-110,
+		-90
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.2
+}

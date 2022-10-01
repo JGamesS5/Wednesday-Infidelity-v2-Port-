@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-540,
+				304
+			],
+			"anim": "danceLeft-alt",
+			"fps": 24,
+			"name": "DONALD IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-540,
+				304
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"indices": [],
+			"name": "DONALD IDLE"
+		},
+		{
+			"offsets": [
+				-436,
+				295
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DONALD LEFT"
+		},
+		{
+			"offsets": [
+				-598,
+				296
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DONALD DOWN"
+		},
+		{
+			"offsets": [
+				-601,
+				304
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DONALD UP"
+		},
+		{
+			"offsets": [
+				-590,
+				304
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DONALD RIGHT"
+		},
+		{
+			"offsets": [
+				-37,
+				1377
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "appear",
+			"indices": [],
+			"name": "DUCK APARITION"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-540,
+				304
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "DONALD IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-541,
+				304
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "DONALD IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/accelerant/accelerant_gf",
+	"position": [
+		-380,
+		230
+	],
+	"healthicon": "donald",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		103,
+		103
+	],
+	"camera_position": [
+		180,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

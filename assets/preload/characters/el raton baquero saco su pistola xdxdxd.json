@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CAGADA INFERNAL instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/satan-gf",
+	"position": [
+		75,
+		265
+	],
+	"healthicon": "mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		73,
+		69
+	],
+	"camera_position": [
+		50,
+		30
+	],
+	"sing_duration": 5,
+	"scale": 1.2
+}

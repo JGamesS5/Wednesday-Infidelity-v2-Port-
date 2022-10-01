@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				116,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wafiu",
+			"indices": [],
+			"name": "MIKI WAIFU"
+		},
+		{
+			"offsets": [
+				21,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "whats that",
+			"indices": [],
+			"name": "MIKI WHATS THAT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leakers/dialogo1",
+	"position": [
+		-70,
+		230
+	],
+	"healthicon": "ms",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		2,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

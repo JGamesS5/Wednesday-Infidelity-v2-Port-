@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				113
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF DEATH FIRST",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				114
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF DEATH LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				210
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF DEATH CPNFIRM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/inferno_bf",
+	"position": [
+		0,
+		370
+	],
+	"healthicon": "hellholebf",
+	"flip_x": true,
+	"healthbar_colors": [
+		125,
+		128,
+		142
+	],
+	"camera_position": [
+		450,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

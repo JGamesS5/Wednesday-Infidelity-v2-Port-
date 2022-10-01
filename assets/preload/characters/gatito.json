@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle-fiddle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-76,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Satan-laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/julian/fiddles-test",
+	"position": [
+		300,
+		-80
+	],
+	"healthicon": "julian",
+	"flip_x": false,
+	"healthbar_colors": [
+		132,
+		132,
+		132
+	],
+	"camera_position": [
+		-160,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
